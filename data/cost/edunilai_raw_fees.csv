@@ -1,0 +1,190 @@
+university,type,field_category,programme,fee
+UTM,Public,Architecture & Built Environment,Architecture(6 Semesters),8610.0
+UTM,Public,Accounting & Finance,Accounting (7 Semesters),8795.0
+UTM,Public,Computer Science & IT,Computer / IT,10760.0
+UTM,Public,Education,Education,10760.0
+UTM,Public,Engineering,Engineering,11200.0
+UTM,Public,Business,"HRD, Business & Management",9880.0
+UTM,Public,Social Sciences,Social Sciences,9880.0
+UTM,Public,Science,Sciences,10760.0
+UTM,Public,Architecture & Built Environment,Built Environment & Surveying,11080.0
+UTM,Public,Computer Science & IT,Bachelor of Computer Science (Data Engineering) with Honours,13120.0
+UTM,Public,Computer Science & IT,Bachelor of Artificial Intelligence with Honours (6 Semester),9540.0
+UTM,Public,Business,Bachelor of Management with Honours,7710.0
+UTM,Public,Engineering,Bachelor of Electronic Systems Engineering,40000.0
+UTM,Public,Engineering,Bachelor of Mechanical Precision Engineering,40000.0
+UTM,Public,Engineering,Bachelor of Chemical Process Engineering,40000.0
+UM,Public,Arts & Humanities,BACHELOR OF MALAY STUDIES,8500.0
+UM,Public,Arts & Humanities,BACHELOR OF PROFESSIONAL MALAY LANGUAGE,8500.0
+UM,Public,Arts & Humanities,BACHELOR OF MALAY LINGUISTICS,8500.0
+UM,Public,Arts & Humanities,BACHELOR OF MALAY LITERATURE,8500.0
+UM,Public,Arts & Humanities,BACHELOR OF ARABIC LANGUAGE AND LINGUISTICS,8500.0
+UM,Public,Arts & Humanities,BACHELOR OF JAPANESE LANGUAGES AND LINGUISTICS,8400.0
+UM,Public,Arts & Humanities,BACHELOR OF CHINESE LANGUAGE AND LINGUISTICS,8400.0
+UM,Public,Arts & Humanities,BACHELOR OF TAMIL LANGUAGE AND LINGUISTICS,8400.0
+UM,Public,Arts & Humanities,BACHELOR OF ENGLISH LANGUAGE AND LINGUISTICS,8500.0
+UM,Public,Arts & Humanities,BACHELOR OF FRENCH LANGUAGE AND LINGUISTICS,8400.0
+UM,Public,Arts & Humanities,BACHELOR OF GERMAN LANGUAGE AND LINGUISTICS,8400.0
+UM,Public,Arts & Humanities,BACHELOR OF SPANISH LANGUAGE AND LINGUISTICS,8400.0
+UM,Public,Arts & Humanities,BACHELOR OF ITALIAN LANGUAGE AND LINGUISTICS,8400.0
+UM,Public,Law,FACULTY OF LAW BACHELOR OF LAWS,9400.0
+UM,Public,Architecture & Built Environment,BACHELOR OF SCIENCE IN ARCHITECTURE,9700.0
+UM,Public,Architecture & Built Environment,BACHELOR OF BUILDING SURVEYING,11700.0
+UM,Public,Architecture & Built Environment,BACHELOR OF QUANTITY SURVEYING,10500.0
+UM,Public,Architecture & Built Environment,BACHELOR OF REAL ESTATE,10400.0
+UM,Public,Architecture & Built Environment,BACHELOR OF URBAN AND REGIONAL PLANNING,11700.0
+UM,Public,Medicine & Health,FACULTY OF PHARMACY BACHELOR OF PHARMACY (HONS.),13300.0
+UM,Public,Business,FACULTY OF SPORT AND EXERCISE BACHELOR OF SPORTS MANAGEMENT,9300.0
+UM,Public,Science,SCIENCES BACHELOR OF EXERCISE SCIENCE,9400.0
+UM,Public,Engineering,BACHELOR OF CIVIL ENGINEERING,9900.0
+UM,Public,Engineering,BACHELOR OF BIOMEDICAL ENGINEERING,9300.0
+UM,Public,Engineering,FACULTY OF ENGINEERING BACHELOR OF ELECTRICAL ENGINEERING,9700.0
+UM,Public,Engineering,BACHELOR OF MECHANICAL ENGINEERING,10100.0
+UM,Public,Engineering,BACHELOR OF CHEMICAL ENGINEERING,10000.0
+UM,Public,Medicine & Health,BACHELOR OF MEDICINE AND BACHELOR OF SURGERY,15000.0
+UM,Public,Medicine & Health,BACHELOR OF BIOMEDICAL SCIENCE,10300.0
+UM,Public,Medicine & Health,BACHELOR OF NURSING SCIENCE,10100.0
+UM,Public,Business,BACHELOR OF ECONOMICS,8800.0
+UM,Public,Accounting & Finance,BACHELOR OF ACCOUNTING,8300.0
+UM,Public,Business,BACHELOR OF BUSINESS ADMINISTRATION,8700.0
+UM,Public,Accounting & Finance,BACHELOR OF FINANCE,9700.0
+UM,Public,Business,BACHELOR OF MUAMALAT MANAGEMENT,10100.0
+UM,Public,Arts & Humanities,BACHELOR OF SHARIAH,9400.0
+UM,Public,Arts & Humanities,BACHELOR OF SHARIAH AND LAW,11000.0
+UM,Public,Education,BACHELOR OF ISLAMIC EDUCATION,10500.0
+UM,Public,Arts & Humanities,BACHELOR OF ISLAMIC STUDIES AND SCIENCE,11400.0
+UM,Public,Education,FACULTY OF EDUCATION,8200.0
+UM,Public,Education,BACHELOR OF EARLY CHILDHOOD EDUCATION,8400.0
+UM,Public,Social Sciences,BACHELOR OF ARTS ANTHROPOLOGY AND SOCIOLOGY,8200.0
+UM,Public,Social Sciences,BACHELOR OF GEOGRAPHY,8400.0
+UM,Public,Arts & Humanities,BACHELOR OF ARTS ENGLISH,8300.0
+UM,Public,Science,BACHELOR OF ENVIRONMENTAL STUDIES,8200.0
+UM,Public,Social Sciences,BACHELOR OF ARTS SOUTHEAST ASIAN STUDIES,8400.0
+UM,Public,Arts & Humanities,BACHELOR OF ARTS INDIAN STUDIES,8300.0
+UM,Public,Social Sciences,BACHELOR OF MEDIA STUDIES,8200.0
+UM,Public,Arts & Humanities,BACHELOR OF ARTS CHINESE STUDIES,8400.0
+UM,Public,Social Sciences,BACHELOR OF SOCIAL ADMINISTRATION,8200.0
+UM,Public,Social Sciences,BACHELOR OF ARTS HISTORY,8200.0
+UM,Public,Arts & Humanities,BACHELOR OF MUSIC,9000.0
+UM,Public,Arts & Humanities,BACHELOR OF DRAMA,9000.0
+UM,Public,Arts & Humanities,BACHELOR OF DANCE,9000.0
+UM,Public,Arts & Humanities,BACHELOR OF PERFORMING ARTS,9000.0
+UM,Public,Computer Science & IT,FACULTY OF COMPUTER SCIENCE AND,10200.0
+UM,Public,Computer Science & IT,BACHELOR OF COMPUTER SCIENCE (DATA SCIENCE),20500.0
+UM,Public,Science,BACHELOR OF SCIENCE IN CHEMISTRY,9700.0
+UM,Public,Science,BACHELOR OF SCIENCE IN ECOLOGY AND BIODIVERSITY,9800.0
+UM,Public,Science,BACHELOR OF SCIENCE IN PHYSICS,9800.0
+UM,Public,Science,BACHELOR OF SCIENCE IN ENVIRONMENTAL MANAGEMENT,13100.0
+UM,Public,Science,BACHELOR OF SCIENCE IN APPLIED GEOLOGY,9800.0
+UM,Public,Science,BACHELOR OF SCIENCE IN BIOCHEMISTRY,9800.0
+UM,Public,Science,BACHELOR OF SCIENCE IN MATHEMATICS,9700.0
+UM,Public,Science,BACHELOR OF SCIENCE IN BIOTECHNOLOGY,9700.0
+UM,Public,Science,BACHELOR OF SCIENCE WITH EDUCATION,9400.0
+UM,Public,Accounting & Finance,BACHELOR OF ACTUARIAL SCIENCE,10300.0
+UM,Public,Science,BACHELOR OF SCIENCE IN STATISTICS,9800.0
+UM,Public,Medicine & Health,FACULTY OF DENTISTRY BACHELOR OF DENTAL SURGERY,16500.0
+APU,Private,Business,BA (Hons) in Business Management,100600.0
+APU,Private,Business,BA (Hons) in Business Management with a specialism in Business Analytics,100600.0
+APU,Private,Business,BA (Hons) in Business Management with a specialism in Digital Leadership,100600.0
+APU,Private,Business,BA (Hons) in Business Management with a specialism in E-Business,100600.0
+APU,Private,Business,BA (Hons) in Human Resource Management,100600.0
+APU,Private,Business,BA (Hons) in International Business Management,100600.0
+APU,Private,Business,BA (Hons) in Marketing Management,100600.0
+APU,Private,Business,BA (Hons) in Marketing Management with a specialism in Digital Marketing,100600.0
+APU,Private,Business,Bachelor of Arts (Honours) In Business Management with a specialism in Business Analytics,97400.0
+APU,Private,Accounting & Finance,BSc (Hons) in Actuarial Studies,97400.0
+APU,Private,Accounting & Finance,Bachelor of Science (Honours) in Actuarial Studies​ with a specialism in Data Analytics,97400.0
+APU,Private,Accounting & Finance,Bachelor of Science (Honours) in Actuarial Studies​ with a specialism in Financial Technology,97400.0
+APU,Private,Accounting & Finance,BA (Hons) in Accounting and Finance,100600.0
+APU,Private,Accounting & Finance,BA (Hons) in Accounting and Finance with a specialism in Accounting Technology,100600.0
+APU,Private,Accounting & Finance,BA (Hons) in Accounting and Finance with a specialism in Forensic Accounting,100600.0
+APU,Private,Accounting & Finance,BA (Hons) In Accounting And Finance With A Specialism In Forex And Investments,100600.0
+APU,Private,Accounting & Finance,Bachelor in Banking and Finance (Hons),97400.0
+APU,Private,Accounting & Finance,Bachelor in Banking and Finance (Hons) with a specialism in Financial Technology,97400.0
+APU,Private,Accounting & Finance,Bachelor in Banking and Finance (Hons) with a specialism in Investment Analytics,97400.0
+APU,Private,Architecture & Built Environment,BSc (Hons) in Architecture,103000.0
+APU,Private,Arts & Humanities,BA (Hons) in Animation,103000.0
+APU,Private,Arts & Humanities,BA (Hons) in Digital Advertising,103000.0
+APU,Private,Arts & Humanities,BA (Hons) in Visual Effects,103000.0
+APU,Private,Arts & Humanities,BSc (Hons) in Multimedia Technology with a specialism in VR/AR,103000.0
+APU,Private,Arts & Humanities,Bachelor of Arts (Honours) in Media and Communication Studies,100600.0
+APU,Private,Computer Science & IT,BSc (Hons) in Computer Games Development,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) In Computer Science,103000.0
+APU,Private,Computer Science & IT,Bachelor of Computer Science (Hons) (Artificial Intelligence),103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Computer Science (Cyber Security),103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Computer Science with a specialism in Data Analytics,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Computer Science with a specialism in Digital Forensics,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Information Technology with a specialism in Digital Transformation,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Information Technology,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Information Technology with a specialism in Business Information Systems,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Information Technology with a specialism in Cloud Engineering,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Information Technology with a specialism in Digital Transformation,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Information Technology with a specialism in Financial Technology (Fintech),103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Information Technology with a specialism in Information Systems Security,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Information Technology with a specialism in Sustainable Computing,103000.0
+APU,Private,Computer Science & IT,BSc (Hons) In Information Technology with a specialism in the Internet of Things (IoT),103000.0
+APU,Private,Computer Science & IT,BSc (Hons) in Software Engineering,103000.0
+APU,Private,Arts & Humanities,BA (Hons) in Industrial Design,103000.0
+APU,Private,Engineering,B.Eng (Hons) in Computer Engineering,119600.0
+APU,Private,Engineering,B. Eng (Hons) in Electrical & Electronic Engineering,119600.0
+APU,Private,Engineering,B. Eng (Hons) in Mechatronic Engineering,119600.0
+APU,Private,Engineering,B. Eng (Hons) in Petroleum Engineering,119600.0
+APU,Private,Engineering,B.Eng in Mechanical Engineering with Honours,119600.0
+APU,Private,Business,Ba (Hons) in Tourism Management,100600.0
+APU,Private,Arts & Humanities,BA (Hons) in Tourism Management with a specialism in Hospitality,100600.0
+APU,Private,Arts & Humanities,BSc (Hons) in Hospitality and Tourism,100600.0
+APU,Private,Social Sciences,BA (Hons) in International Relations,100600.0
+APU,Private,Social Sciences,Bachelor of Science (Honours) in Psychology,100600.0
+Taylor's,Private,Accounting & Finance,Bachelor in Accounting (Fintech) (Hons),119200.0
+Taylor's,Private,Law,"Bachelor in Philosophy, Politics and Economics (Honours)",119680.0
+Taylor's,Private,Accounting & Finance,"Bachelor of Accounting and Finance (Hons) 2+1, University of Canterbury, NZ",285700.0
+Taylor's,Private,Accounting & Finance,"Bachelor of Accounting and Finance (Hons) 3+0, UWE, Uk",121840.0
+Taylor's,Private,Accounting & Finance,"Bachelor Of Business (Hons) Banking & Finance (3+0) with University of the West of England, UK",121840.0
+Taylor's,Private,Business,"Bachelor Of Business (Hons) Finance & Economics (3+0) with University of the West of England, UK",121840.0
+Taylor's,Private,Business,"Bachelor Of Business (Hons) International Business & Marketing (3+0) with University of the West of England, UK",129830.0
+Taylor's,Private,Business,"Bachelor of Entrepreneurship (Honours) in Team Entrepreneurship (3+0) with University of West England, UK",110715.0
+Taylor's,Private,Computer Science & IT,"Bachelor Of Information Technology (Hons) (3+0) with University of the West of England, UK",121730.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons),120650.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons) in Advertising & Brand Management,120650.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons) in Public Relations & Marketing,120650.0
+Taylor's,Private,Accounting & Finance,Bachelor Of Science (Hons) Actuarial Studies (3 years),114495.0
+Taylor's,Private,Accounting & Finance,Bachelor Of Science (Hons) Actuarial Studies (4 years),125080.0
+Taylor's,Private,Architecture & Built Environment,Bachelor Of Arts (Hons) Interior Architecture,130045.0
+Taylor's,Private,Architecture & Built Environment,Bachelor Of Quantity Surveying (Hons),104640.0
+Taylor's,Private,Architecture & Built Environment,Bachelor Of Science (Hons) In Architecture,135350.0
+Taylor's,Private,Business,Bachelor of Science (Honours) in Sustainable DigitalConstruction Management,104345.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Design (Hons) In Creative Media,121730.0
+Taylor's,Private,Arts & Humanities,Bachelor in Fashion Design Technology (Hons),115300.0
+Taylor's,Private,Arts & Humanities,Bachelor of Interactive Spatial Design (Honours),115790.0
+Taylor's,Private,Arts & Humanities,Bachelor of Performing Arts (Hons),104775.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons),120650.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons)(Digital Media Production),120650.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons) inAdvertising &Brand Management,120650.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons) inPublic Relations & Event Management,120650.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons) inPublic Relations & Marketing,120650.0
+Taylor's,Private,Computer Science & IT,"Bachelor Of Computer Science (Hons) (3+0) with University of the West of England, UK",121730.0
+Taylor's,Private,Computer Science & IT,"Bachelor Of Information Technology (Hons) (3+0) with University of the West of England, UK",121730.0
+Taylor's,Private,Computer Science & IT,"Bachelor Of Software Engineering (Hons) (3+0) with University of the West of England, UK",121730.0
+Taylor's,Private,Education,Bachelor Of Education (Hons),104885.0
+Taylor's,Private,Engineering,Bachelor Of Engineering (Hons) Chemical Engineering,168665.0
+Taylor's,Private,Engineering,Bachelor Of Engineering (Hons) Electrical &Electronic Engineering,168665.0
+Taylor's,Private,Engineering,Bachelor Of Engineering (Hons) Mechanical Engineering,168665.0
+Taylor's,Private,Engineering,Bachelor of Mechatronics Engineering (Hons),168665.0
+Taylor's,Private,Business,"Bachelor Of Culinary Management (Hons) (3+0) with University of Toulouse-Jean Jaurès, FRA",119250.0
+Taylor's,Private,Business,Bachelor of International Event Management (Honours),119250.0
+Taylor's,Private,Arts & Humanities,"Bachelor Of International Hospitality Management (Hons) (3+0) with University of Toulouse-Jean Jaurès, FRA",119250.0
+Taylor's,Private,Business,"Bachelor Of International Tourism Management (Hons) (3+0) with University of Toulouse-Jean Jaurès, FRA",119250.0
+Taylor's,Private,Arts & Humanities,Bachelor Of Mass Communication (Hons) in Public Relations & Event Management,120650.0
+Taylor's,Private,Arts & Humanities,Bachelor of Patisserie Arts (Hons),112875.0
+Taylor's,Private,Science,Bachelor Of Science (Hons) Culinology,125860.0
+Taylor's,Private,Law,Bachelor Of Laws (LL.B),131990.0
+Taylor's,Private,Medicine & Health,Bachelor of Applied Health Sciences (Honours),132970.0
+Taylor's,Private,Medicine & Health,Bachelor Of Biomedical Science (Hons),138530.0
+Taylor's,Private,Medicine & Health,"Bachelor Of Medicine, Bachelor Of Surgery (MBBS)",446690.0
+Taylor's,Private,Medicine & Health,Bachelor Of Pharmacy (Hons),196770.0
+Taylor's,Private,Medicine & Health,Bachelor of Pharmaceutical Science (Honours),116225.0
+Taylor's,Private,Science,Bachelor In Biotechnology (Hons),121730.0
+Taylor's,Private,Computer Science & IT,"Bachelor Of Information Technology (Hons) (3+0) withUniversity of the West of England, UK",121730.0
+Taylor's,Private,Science,Bachelor Of Science (Hons) (Food Science),121730.0
+Taylor's,Private,Social Sciences,Bachelor Of Psychology (Hons),110390.0
+Taylor's,Private,Social Sciences,Bachelor of Social Science (Honours) in International Relations,107690.0
