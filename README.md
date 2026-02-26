@@ -94,6 +94,7 @@ Ensuring that educational investment translates into productive employment and g
 
 ---
 
+<<<<<<< HEAD
 ## The Team
 
 EduNilai is a submission for **Data Challenge 5.0**, organised by the UKM Statistics Club under the theme *"Data-Driven Insights for Sustainable Well-Being."*
@@ -102,4 +103,6 @@ EduNilai is a submission for **Data Challenge 5.0**, organised by the UKM Statis
 
 ---
 
+=======
+>>>>>>> 81a09ca (update data understanding)
 *EduNilai — because nilai means value, and every Malaysian deserves to know the true value of what they paid for.*
