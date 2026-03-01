@@ -1,0 +1,4 @@
+data/*
+!data/analysis/*
+
+data_understanding/verify.ipynb
