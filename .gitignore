@@ -1,4 +1,7 @@
-data/*
-!data/analysis/*
+# /data/*
+# !/data/analysis/
 
-data_understanding/verify.ipynb
+/data_understanding/verify.ipynb
+/notebook/demographic.ipynb
+/notebook/forecast.ipynb
+/notebook/roi.ipynb
